@@ -28,7 +28,7 @@ Repositori ini berisi:
 ![Prediksi](images/predict.png)
 
 ## 💻 Tampilan Antarmuka Pengguna
-![Tampilan UI](images/Main%20UI.png)
+![Tampilan UI](https://github.com/Rizky28eka/AI-Medical-Diagnosis-App/blob/main/images/Main%20UI.png)
 
 ## 🛠️ Teknologi yang Digunakan
 - Python 🐍 - Bahasa pemrograman utama
